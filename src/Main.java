@@ -23,5 +23,6 @@ public class Main {
         }
         System.out.println("tu hobby es "+ hobby );
         System.out.println("algo que queremos ");
+        System.out.println("algo que no queremos");
     }
 }
