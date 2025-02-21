@@ -25,5 +25,7 @@ public class Main {
         System.out.println("algo que queremos ppp ");
         System.out.println("cambioooo uno");
         System.out.println("cambio dos");
+        System.out.println("cambio tres");
+        System.out.println("cambbbb");
     }
 }
