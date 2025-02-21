@@ -22,7 +22,7 @@ public class Main {
             System.out.println("eres mayor de edad ");
         }
         System.out.println("tu hobby es "+ hobby );
-        System.out.println("algo que queremos ");
-        System.out.println("algo que no queremos");
+        System.out.println("algo que queremos ppp ");
+        System.out.println("cambioooo uno");
     }
 }
